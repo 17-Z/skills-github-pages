@@ -2,7 +2,7 @@
 theme: minima
 title: 17-Z's personal blog
 description: This is where I share cool stuff about my life
-author: 17-Z
+
 ---
 # Daily Learning
 ## Morning Planning
